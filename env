@@ -1,0 +1,6 @@
+# define your monitoring pg auto failover
+DB_HOST=192.168.88.128
+DB_PORT=5432
+DB_NAME=pg_auto_failover
+DB_USER=autoctl_node
+DB_PASSWORD=progress123
