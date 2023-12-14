@@ -1,0 +1,1 @@
+# heatlhchecks-pg_auto_failover
